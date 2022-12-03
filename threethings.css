@@ -1,0 +1,8 @@
+body {color: #666666; background-color: #3399CC; font-family: sans-serif; background-image: linear-gradient(to bottom, #3399CC, #C2E0F0, #3399CC);}
+h1 {background-image: url("sunset.jpg"); background-size: 100% 100%; padding-left: 2em; height: 72px; color: #FFFFFF; background-color: #000033; font-family: sans-serif; line-height: 200%; margin-bottom: 0;}
+nav { padding-top: .5em; padding-bottom: .5em; padding-right: .5em; padding-left: 2em;  font-weight: bold; background-color: #90C7E3;}
+h2 { color: #3399CC; font-family: sans-serif;}
+footer { padding: 1em; font-size: .70em; font-style: italic; text-align: center;}
+div#wrapper { background-color: #FFFFFF; min-width: 700px; max-width: 1024px; box-shadow: 3px 3px #333333; width : 80%; margin-right : auto; margin-left : auto;}
+main {padding-left: 2em; padding-right: 2em; display: block;}
+nav a {text-decoration: none;}
